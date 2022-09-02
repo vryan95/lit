@@ -9,6 +9,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Efforts to use Vanilla JS and remove jQuery [WIP]
 - Fix for `Undefined method 'id' for False class` error in view partial [WIP]
 
+##[1.1.7] - 2022-09-02
+
+### Fixed
+- When using bootstrap-forms fix an error with empty hash
+
 ## [1.1.6] - 2022-03-28
 ### Fixed
 - When running Lit on Rails 6.1 defaults could sometimes be overwritten [@pnikrat](https://github.com/pnikrat)
